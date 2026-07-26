@@ -11,14 +11,6 @@ This project involves designing and developing a website focused on one of the *
 
 ---
 
-## 🎯 Our Chosen SDG
-
-**[Insert SDG Number and Name Here]**
-
-*Example: SDG 13 - Climate Action*
-
----
-
 ## 👥 Team Members
 
 | Role | Name | Assigned Pages |
@@ -68,13 +60,6 @@ This project involves designing and developing a website focused on one of the *
 
 ---
 
-## 📅 Project Timeline
-
-- **Handed Out:** 31st May 2024
-- **Due Date:** 15th July 2024 (13:00 PM)
-- **Weighting:** 50% of module
-
----
 
 ## 🚀 How to Run
 
